@@ -1,8 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
-  (lib (name "AEH1213221M050R")(type "Legacy")(uri "C:/Users/domin/Documents/model/LIB_AEH1213221M050R/AEH1213221M050R/KiCad/AEH1213221M050R.mod")(options "")(descr ""))
-  (lib (name "DG300-5.0-02P-13-00AH")(type "Legacy")(uri "C:/Users/domin/Documents/model/Nowy folder/LIB_DG300-5.0-02P-13-00AH/DG300-5.0-02P-13-00AH/KiCad/DG300-5.0-02P-13-00AH.mod")(options "")(descr ""))
-  (lib (name "2EDL05N06PFXUMA1")(type "Legacy")(uri "C:/Users/domin/Documents/model/2EDL05N06PFXUMA1/LIB_2EDL05N06PFXUMA1/2EDL05N06PFXUMA1/KiCad/2EDL05N06PFXUMA1.mod")(options "")(descr ""))
-  (lib (name "DG381-3.5-02P-13-00AH")(type "Legacy")(uri "C:/Users/domin/Documents/model/LIB_DG381-3.5-02P-13-00AH-1/DG381-3.5-02P-13-00AH/KiCad/DG381-3.5-02P-13-00AH.mod")(options "")(descr ""))
-)

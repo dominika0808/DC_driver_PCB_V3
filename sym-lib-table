@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
-  (lib (name "AEH1213221M050R")(type "Legacy")(uri "C:/Users/domin/Documents/KiCad model/LIB_AEH1213221M050R/AEH1213221M050R/KiCad/AEH1213221M050R.lib")(options "")(descr ""))
-)
